@@ -9,8 +9,10 @@ What these programs does ?
  1. "scrapping.rb"
   
    This program is getting all the email addresses available on :
-   -[L'annuaire des maires du Val d'Oise](https://annuaire-des-mairies.com/val-d-oise.html)
-   -[L'annuaire des mairies de Seine st Denis](http://annuaire-des-mairies.com/seine-saint-denis.html)
+   
+   [L'annuaire des maires du Val d'Oise](https://annuaire-des-mairies.com/val-d-oise.html)
+
+   [L'annuaire des mairies de Seine st Denis](http://annuaire-des-mairies.com/seine-saint-denis.html)
 
    Then it sends them to a google doc/sheet [over there](https://docs.google.com/spreadsheets/d/1M1vJ2XhdkrV2JvmHb5RauwYmHlHWv1k-AbdXTFx7Ti8/edit#gid=0) .... it is 225 emails (40 for the 93 and 185 for the 95)
 
