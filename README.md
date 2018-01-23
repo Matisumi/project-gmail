@@ -15,6 +15,7 @@ Repo for THP's gmail ex
    [L'annuaire des mairies de Seine st Denis](http://annuaire-des-mairies.com/seine-saint-denis.html)
 
    Then it sends them to a google doc/sheet [over there](https://docs.google.com/spreadsheets/d/1M1vJ2XhdkrV2JvmHb5RauwYmHlHWv1k-AbdXTFx7Ti8/edit#gid=0) .... it is 225 emails (40 for the 93 and 185 for the 95)
+   I could go for more but the google sheet wouldn't like it XD
 
  2. "send_email.rb"
 
