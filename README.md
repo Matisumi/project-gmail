@@ -3,8 +3,8 @@ Repo for THP's gmail ex
 
 ## Before we get started ...
 
-What these programs does ?
-------------------------
+**What these programs does ?**
+
 
  1. "scrapping.rb"
   
@@ -25,10 +25,10 @@ What these programs does ?
 
 **!!! WARNING !!! PLEASE USE YOUR OWN ```config.json``` INSTEAD OF THE ONE GIVEN (WICH IS EMPTY BTW) !!!**
 
-##If it doesn't work ... for some reason
+## If it doesn't work ... for some reason
 
-Please don't be a screwdriver ... give me a call 
-------------------------------------------------
+**Please don't be a screwdriver ... give me a call**
+
 
 
 you can contact me on slack @mati I always have time to check with you where the problem can be :-)
